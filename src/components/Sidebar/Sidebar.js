@@ -35,7 +35,7 @@ function Sidebar() {
         <div className="sidebar">
             <div className="sidebar__header">
                 <div className="sidebar__info">
-                    <h2>Clever Programmer</h2>
+                    <h2>Zenith City</h2>
                     <h3> 
                         <FiberManualRecordIcon />
                         {user?.displayName}

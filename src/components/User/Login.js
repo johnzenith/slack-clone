@@ -28,8 +28,8 @@ function Login() {
         <div className="login">
             <div className="login__container">
                 <img src={SlackLogo} alt="Slack" />
-                <h1>Sign in to Clever Programmer HQ</h1>
-                <p>cleverprogrammer.slack.com</p>
+                <h1>Sign in to Zenith City HQ</h1>
+                <p>zenithcity.slack.com</p>
                 <Button onClick={signIn}>Sign In with Google</Button>
             </div>
         </div>

@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Test URL
+https://slack-clone-5b0e2.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
